@@ -53,6 +53,7 @@ https://github.com/unwitting/imageme
 
 4.1) KNN search
 https://github.com/facebookresearch/faiss/
+https://github.com/spotify/annoy
 
 5)Other / To look at
 http://disa.fi.muni.cz/profiset/
